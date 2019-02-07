@@ -15,7 +15,7 @@ dependencies {
 }
 
 group = "uk.co.boothen.gradle"
-version = "${pluginVersion}"
+version = "0.4.1"
 
 gradlePlugin {
     plugins {
